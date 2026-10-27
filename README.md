@@ -1,3 +1,6 @@
+![Project Cover](images/cover.png)
+
+# BazarNova — Retail Sales Analysis
 # Back Ground and Overview
 BazarNova — a leading Turkish retail chain with a strong global presence, known for its diverse product offerings and commitment to customer satisfaction.
 
