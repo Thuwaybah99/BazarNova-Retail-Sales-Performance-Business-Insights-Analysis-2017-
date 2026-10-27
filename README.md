@@ -1,4 +1,6 @@
-![Project Cover](images/cover.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thuwaybah99/BazarNova-retail-analysis/main/download.webp" alt="BazarNova Retail Analysis Cover" width="100%">
+</p>
 
 # BazarNova — Retail Sales Analysis
 # Back Ground and Overview
