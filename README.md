@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thuwaybah99/BazarNova-retail-analysis/main/download.webp" alt="BazarNova Retail Analysis Cover" width="100%">
-</p>
-
-# BazarNova — Retail Sales Analysis
-# Back Ground and Overview
+# BazarNova: Retail Sales Performance & Business Insights Analysis (2017)
 BazarNova — a leading Turkish retail chain with a strong global presence, known for its diverse product offerings and commitment to customer satisfaction.
 
 The company has significant amount of data for 2017 on it's sales, and product offering that has been underutilized. This project thoroughly analyze and synthesizes this data in order to undercover critical insights that will improve BazarNova's commercial success.
